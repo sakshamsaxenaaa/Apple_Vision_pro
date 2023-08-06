@@ -3,7 +3,7 @@
 
 
 
-![Apple Vision Pro Logo](./Apple vision image.png)
+![Apple Vision Pro Logo](https://github.com/sakshamsaxenaaa/Apple_vision_pro/blob/main/Apple%20vision%20image.png?raw=true)
 
 This project is a website for Apple Vision Pro, a fictional company specializing in advanced vision technologies. The website showcases my mastery of various web development skills, including HTML, CSS, JavaScript, DOM manipulation, and Canvas.
 
