@@ -709,3 +709,25 @@ font-variant: normal;
 
 }
 
+/* For screens smaller than 768px wide */
+@media (max-width: 768px) {
+  /* Add responsive styles here */
+  /* For example: */
+  body {
+    font-size: 16px;
+  }
+  
+  .header {
+    padding: 10px;
+  }
+  
+  .main-content {
+    width: 100%;
+    padding: 20px;
+  }
+  
+  .footer {
+    text-align: center;
+  }
+}
+
